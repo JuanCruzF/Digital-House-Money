@@ -36,6 +36,7 @@ iTextPDF (para generación de comprobantes)
 JUnit & RestAssured (para pruebas automatizadas)
 
 📑 Pruebas y Documentación
+
 📌 Pruebas Exploratorias:
 ➡️ [Ver en Google Sheets](https://docs.google.com/spreadsheets/d/1mUobOhYdIC3WuVqAy4VpSEj5HkG-x6FX/edit?gid=1955779588#gid=1955779588)
 
