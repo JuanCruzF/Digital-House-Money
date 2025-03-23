@@ -45,7 +45,7 @@ Este servicio sigue el patrón Central Configuration, proporcionando un reposito
 
 📌 **Testing** [🔗 Ver en Google Sheets](https://drive.google.com/file/d/1LS1Q9R0LHSLOWt06Mdn5dcFRjaYHafxP/view?usp=sharing)  
 
-📌 **Colección de Postman:** [🔗 Acceder en Postman](https://www.postman.com/juan55-1636/workspace/digital-house-money)  
+📌 **Colección de Postman:** [🔗 Acceder en Postman](https://www.postman.com/juan55-1636/workspace/digital-house-money/collection/40877067-f76542fe-4640-4356-93c0-98a699a19894?action=share&source=copy-link&creator=40877067)  
 
 
 # 🚀 Sprint I  
